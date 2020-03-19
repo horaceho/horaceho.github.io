@@ -1,23 +1,21 @@
-title: Your awesome title
+title: 開發二三事
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: Horace Ho
+  email: ho@keji.ch
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  記錄了一些開發的事情
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
-  date_format: "%b %-d, %Y"
+  date_format: "%Y-%m-%d"
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    twitter: ohho
+    github:  horaceho
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
