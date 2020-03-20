@@ -17,7 +17,7 @@
       {%- endif %}
       <p class="feed-subscribe">
         <a href="{{ 'feed.xml' | relative_url }}">
-          <svg class="svg-icon orange">
+          <svg class="svg-icon">
             <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
           </svg><span></span>
         </a>
@@ -25,7 +25,7 @@
       </div>
 
       <div class="footer-col">
-        <p>{{ site.description | escape }}</p>
+        <p style="float: right;">{{ site.description | escape }}</p>
       </div>
     </div>
 
