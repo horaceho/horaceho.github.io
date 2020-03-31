@@ -52,5 +52,5 @@ gem install ruby
 
 軟件                   | 網址
 --------------------- | ---------------------
-Xcode                 | [stackoverflow.com](https://stackoverflow.com/questions/10335747/how-to-download-xcode-dmg-or-xip-file)
-Homebrew              | [brew.sh](https://brew.sh/)
+Xcode                 | [stackoverflow.com](https://stackoverflow.com/questions/10335747/how-to-download-xcode-dmg-or-xip-file){:target="_blank"}
+Homebrew              | [brew.sh](https://brew.sh/){:target="_blank"}
