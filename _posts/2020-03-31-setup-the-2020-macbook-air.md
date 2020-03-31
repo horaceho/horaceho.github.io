@@ -34,6 +34,8 @@ export BASH_SILENCE_DEPRECATION_WARNING=1
 ```
 把那個煩人的提示去掉。
 
+也可以按自己的喜好，[設定一個默認 Shell](/note/2020/03/31/use-a-different-macos-shell.html)。
+
 ### Homebrew
 
 在 [brew.sh](https://brew.sh/) 安裝 `Homebrew` 後，順便裝一個 `ruby`：
