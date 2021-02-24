@@ -38,9 +38,9 @@ export BASH_SILENCE_DEPRECATION_WARNING=1
 
 ### Homebrew
 
-在 [brew.sh](https://brew.sh/) 安裝 `Homebrew` 後，順便裝一個 `ruby`：
+在 [brew.sh](https://brew.sh/) 安裝 `Homebrew` 後，順便裝一個 `ruby`，會附送 `gem`：
 ```
-gem install ruby
+brew install ruby
 ```
 這樣在將來安裝不同的 `gems` 時，免了 `sudo`。
 
