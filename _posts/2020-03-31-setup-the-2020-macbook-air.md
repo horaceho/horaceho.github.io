@@ -44,6 +44,15 @@ brew install ruby
 ```
 這樣在將來安裝不同的 `gems` 時，免了 `sudo`。
 
+### Composer
+
+```
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+php composer-setup.php
+php composer-setup.php --install-dir=/usr/local/bin --filename=composer
+php -r "unlink('composer-setup.php');
+```
+
 ### 其他開發環境
 
 其他的開發環境，可以一個一個添加：
